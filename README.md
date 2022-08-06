@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ninad-ict
+- 👋 Hi, I am Ninad Khanolkar
 - 👀 I’m interested in solving tasks with technology
 - 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on MERN solutions, A.I. , IoT
